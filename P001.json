@@ -1,0 +1,16 @@
+{
+  "product_id": "P001",
+  "product_name": "Lemari Kayu Jati",
+  "client": "Bapak Andi",
+  "status": "Finishing",
+  "progress_percent": 85,
+  "timeline": [
+    { "date": "2025-01-10", "desc": "Pembuatan rangka" },
+    { "date": "2025-01-15", "desc": "Penghalusan" },
+    { "date": "2025-01-20", "desc": "Finishing melamine" }
+  ],
+  "images": [
+    "https://via.placeholder.com/600x400",
+    "https://via.placeholder.com/600x400"
+  ]
+}
